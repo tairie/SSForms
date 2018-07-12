@@ -80,8 +80,6 @@
                 android:resource="@xml/image_picker_provider_paths" />
         </provider>
 
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAbqdGU6mysgmT2kR6oo0Js_ZLKRrASXEM" />
-
     </application>
 
 </manifest>
